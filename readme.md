@@ -26,7 +26,7 @@
 
 * Suporte a Windows, Linux e MacOS!
 * Interruptor de autostart que não quebra a imersão —
-  peça para a Monika ativar ou desativar através do menu 'Hey, Monika...'
+  peça para a Monika ativar ou desativar através do menu 'Ei, Monika...'
 * Já possui o autostart habilitado de alguma forma? O submod consegue detectar
   algumas abordagens comuns e se integra a elas se possível.
 
